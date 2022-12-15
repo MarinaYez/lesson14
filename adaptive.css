@@ -1,0 +1,72 @@
+@media only screen and (max-width: 992px) {
+    .wrapper-sections {
+            top: 0;
+            max-width: 850px;
+            padding: 30px;
+            gap: 50px;
+            max-height: 1000px;
+        }
+        .first-wrapper-section {
+            gap: 70px;
+            padding: 20px;
+            margin-bottom: 150px;
+            
+        }
+    .sooner {
+        padding: 220px;
+    }
+    .appointment {
+        padding-bottom:0px;
+    }
+    .img-section {
+        max-width: 500px;
+        padding-bottom: 220px;
+        padding-left: 600px;
+    }
+    footer {
+        max-width: 992px;
+        /* max-height: 1200px;
+        margin-right: 20px;
+        padding-left: 800px; */
+    }
+    .footer-block-1{
+       max-width: 500px; 
+    }
+}
+
+
+@media only screen and (max-width: 480px) {
+.provide{
+    justify-content: center;
+    margin-left: 400px;
+    font-weight: 200;
+    font-size: 20px;
+}
+    .wrapper-sections {
+        top: 0;
+        max-width: 475px;
+        padding: 30px;
+        gap: 90px;
+        max-height: 1000px;
+    }
+    .sooner {
+     max-width: 470px; 
+     max-height: 500px;
+     padding-top: 200px; 
+    padding-bottom: 100px;
+    margin-left: 200px;
+
+    }
+    .sooner-text {
+        max-width: 470px;
+        justify-content: center;
+        max-height: 200px;
+        
+    }
+        .appointment {
+         margin-left: 100px;   
+        }
+        .img-section{
+            margin-bottom:0px;
+        }
+}
